@@ -22,6 +22,4 @@
 - "Works on my machine" is not a valid deployment strategy  
 - I occasionally write docs. Very occasionally.  
 
----
-
 
