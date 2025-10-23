@@ -15,7 +15,8 @@
 
 ### 📊  Language I use most
 > 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyarray&layout=compact&theme=github&hide_border=false&hide_title=true&langs_count=6&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyarray&layout=compact&hide_border=false&hide_title=true&langs_count=6&stats_format=bytes)
+
 ---
 ### 🐾 A few facts
 - Cats > dogs. No debate. (nya~)  
